@@ -1,5 +1,5 @@
 language: java
-script: mvn clean compile -DskiptTests -Xlint:deprecation
+script: mvn clean compile -DskiptTests
 notifications:
   email:
     - naveenchalawadi@gmail.com
